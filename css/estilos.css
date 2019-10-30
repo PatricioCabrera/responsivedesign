@@ -340,6 +340,11 @@ figure {
   flex-wrap: inherit;
 }
 
+.html-video {
+  width: 100%;
+  height: auto;
+}
+
 /* desktop first que empieces desde el MQ más grande */
 
 @media screen and (max-width: 1024px) {
